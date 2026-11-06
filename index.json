@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "napoleon",
+  "versions": [
+    {
+      "commit": "dce30797b7a229ccebda4030f65482d501427794",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:22:44.091130+00:00"
+    }
+  ]
+}
